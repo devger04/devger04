@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started: -->
 Programming Languages: Python, Java, Java/TypeScript, C, C#, SwiftUI, Kotlin, SQL
+
 Libraries and Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, ASP.NET, React, Express.JS, Node.JS
 
 Projects: Some of my favorite projects include Calmpanion, PlanU, and IUCG-Insights
